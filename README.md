@@ -92,14 +92,18 @@ Title: June 2022 Contribution - {your #discord ID}
 Telegram Username: @ToTheMoon
 Discord Username: @ToTheMoon#1111
 PHA Wallet Address: kME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
+
 Contributions:
 CM - 1) Good points, 2) bad points, 3) how to improve
 [add statistics here]
+
 VSM - Twitted 4 memes & .
 [link to your twitter account and analytics url]
 [Screenshot of your Twitter account stats https://analytics.twitter.com/]
+
 BH - Found 8 bugs
 [links to the bugs that you reported on Github]
+
 TT - Wrote a tutorial
 [link to tutorial and statistics screenshot]
 ```
