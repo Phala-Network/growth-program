@@ -90,6 +90,7 @@ _Report Format Example_
 Title: June 2022 Contribution - {your #discord ID}
 Telegram Username: @ToTheMoon
 Discord Username: @ToTheMoon#1111
+Twitter Username: https://twitter.com/ToTheMoon
 PHA Wallet Address: kME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
 
 Contributions:
