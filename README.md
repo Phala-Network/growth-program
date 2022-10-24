@@ -66,14 +66,14 @@ Phala Network is the #1 trustless cloud for Web3, also a FatContract Hub for WAS
 
 ## Basic Task (Mandatory)
 
-| ID  | Description | Required Qunatity  | KPI | Max Points |
+| ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
 | CM  | Community Support & Management: Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, are required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link.  |  Day to day  | Interaction & Growth | 50 |
 | VSM  | Viral Social Media Engagement: This is part of our strategy to create viral social media presence. You are required to add "Phala Network Amabassador" on your Twitter account. We want people to know that you represent Phala. Create short quality content or memes on Twitter or other social media platforms. Please share your tweets with your local community and get them to retweet to increase presence. The more followers you get, the more likely they will follow Phala Network. You need to share your Twitter analytics (https://analytics.twitter.com/) every month.  | 2 per week  | Quality & Interaction |  30  |
 
 ## Supplementary Task (Choose up to 2 tasks/month)
 
-| ID  | Description | Required Qunatity  | KPI | Max Points |
+| ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
 | CC  | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is oever 1k words) per week or make a maximum 10 minutes length of video about Phala Network per week. Content has to be ORIGINAL.  | 2 per month  | Qulaity & Reach  | 10 |
 | TT  | The Tutor: Write a how-to tutorial in your own words.  | 1 per month  | Quality & Reach  | 10 |
