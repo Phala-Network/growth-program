@@ -50,19 +50,20 @@ Phala Network is the #1 trustless cloud for Web3, also a FatContract Hub for WAS
 # Ambassador Reward System- Updated June 2022
 
 ## How does the program work?
-1. There will be both mandatory tasks and supplementary tasks every month.
-2. ALL mandatory tasks must be completed each month.
-3. Supplementary tasks are optional, which you can choose depending on your skills and talent. You can choose to do up to 2 different supplementary tasks in a month.
-4. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
-5. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
-6. If there are surplus PHA in a particular month, it will be distributed equally to those who achieved ≥90%.
-7. In case that there is a surplus PHA and no one achieves ≥90%, the surplus PHA will be carried forward to the next month.
-8. It is MANDATORY for each ambassador to participate. Failure to achieve at least 40% points for a period of 3 consecutive months will result in the termination of your ambassadorship.
-9. Any ambassador candidates, who reach at least 40% points for a period of 3 consecutive months, will receive a hardware mining-node as a reward and get promoted to the official ambassador position (you may choose the promotion reward between a hardware or in equivalent amount of PHA token, if you are running a node on your own without the hardware provided)
-10. Any official ambassador, who reaches at least 80% points for a period of 3 consecutive months, will become a Senior Ambassador and receive an additional full-cap delegation with 50% pool-operations fee along with a Phala Swag Box.
-11. In case that you do group work with other ambassadors e.g. We have 2 ambassadors from France and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion. Points will be given individually.
-12. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1QsQUwl_pArltaJvJkZ66EUTgNpLyfRgV/edit?usp=sharing&ouid=100574805470537994931&rtpof=true&sd=true).
-13. The reward pool comes from the PHA [Treasury](https://khala.subscan.io/account/436H4jat8E3x6whTRudzJFuF1aFqkxmkYyQqNbh9C9EKhcz7). The reward pool may change depending on how much it is getting.
+1. Both mandatory and supplementary tasks are available.
+2. ALL mandatory tasks must be completed monthly.
+3. Supplementary tasks are optional but encouraged.  
+4. A maximum of 2 different supplementary tasks can be completed, per month.
+5. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
+6. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
+7. If there is surplus PHA in a particular month, it will be distributed equally to those who achieved ≥90%.
+8. If there is surplus PHA and no one achieves ≥90%, it will be carried forward to the next month.
+9. Participation is MANDATORY. Failure to achieve at least 40% points for a period of 3 consecutive months will result in the termination of your ambassadorship.
+10. Any ambassador candidates, who reach at least 40% points for a period of 3 consecutive months, will receive a hardware mining-node as a reward and get promoted to the official ambassador position (you may choose the promotion reward between a hardware or in equivalent amount of PHA token, if you are running a node on your own without the hardware provided)
+11. Any official ambassador, who reaches at least 80% points for a period of 3 consecutive months, will become a Senior Ambassador and receive an additional full-cap delegation with 50% pool-operations fee along with a Phala Swag Box.
+12. In case that you do group work with other ambassadors e.g. We have 2 ambassadors from France and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion. Points will be given individually.
+13. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1QsQUwl_pArltaJvJkZ66EUTgNpLyfRgV/edit?usp=sharing&ouid=100574805470537994931&rtpof=true&sd=true).
+14. The reward pool comes from the PHA [Treasury](https://khala.subscan.io/account/436H4jat8E3x6whTRudzJFuF1aFqkxmkYyQqNbh9C9EKhcz7). The reward pool may change depending on how much it is getting.
 
 ## Basic Task (Mandatory)
 
