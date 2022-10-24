@@ -24,9 +24,9 @@ Phala Network is the #1 trustless cloud for Web3, also a FatContract Hub for WAS
 - Attend monthly Ambassador call + one-on-one meeting every quarter.
 
 ## Benefits:
-- Earn passive income through mining with delegation from the treasury fund!
+- Earn passive income through mining with delegation from our treasury fund!
 - Be a part of the closed beta testers and help to grow our ecosystem projects!
-- Build a reputation and maybe even your future career for yourself!
+- Build a reputation, and maybe even a future career for yourself!
 - Work alongside notable people / projects in this space!
 - Attend local events and conferences that are sponsored by the team!
 - Limited edition whitelist e.g. NFTs that are reserved only for our ambassadors!
