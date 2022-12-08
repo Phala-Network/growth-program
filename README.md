@@ -109,6 +109,7 @@ All ambassadors must select 2/3 of the following departments.
 
 | ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
+| PM | The promoter: promote Phala across relevant social media platforms. | 5 per month  | Reach & engagement | 10 |
 | HD | Help Desk: assist our community by answering their questions and sharing helpful resources. | 5 per month  | Speed & effectiveness  | 10 |
 | REC | The Recruiter: create awareness about our ambassador programme, both within our own community and other relevant communities. Please tell applicants to list you as their referer. | 5 per month  | Quantity & quality | 10 |
 | CC  | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is over 1k words) per week or make a maximum 10 minutes length of video about Phala Network per week. Content has to be ORIGINAL.  | 2 per month  | Quality & Reach  | 10 |
