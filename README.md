@@ -25,21 +25,21 @@ If you meet our criteria, and are interested in becoming part of the phamily, pl
 
 - Grow and nurture our community.
 - Closely follow Phala’s latest news and events.
-- Contribute towards creating a fun, supportive and collaborative environment for our ambassador team.
+- Co-create a fun, supportive and collaborative environment for our ambassador team.
 - A passion for educating the Web3 community about Phala's ecosystem.
 - Play a key role in our marketing, community management and content creation efforts.
 
 
 ## Benefits:
 
-- Monthly rewards – receive $PHA for completing specific tasks.
-- Result-based bonuses – earn extra $PHA for surpassing our monthly targets.
-- Promotional rewards – earn swag boxes, hardware mining-nodes and more for successfully rising through our ambassador ranks.
-- NFTs – collect limited edition Phala branded NFTs that are reserved only for our ambassadors.
-- Networking opportunities – work alongside Phala’s core team and attend local events and conferences that are sponsored by the team.
-- Mentorship & guidance – refine your skills and develop real-world experience in Web3.
-- Recognition & influence - build a reputation, and maybe even a future career for yourself.
-- Exclusive access – be the first to know about Phala’s official releases and upcoming product features. 
+1. Monthly rewards – receive $PHA for completing specific tasks.
+2. Result-based bonuses – earn extra $PHA for surpassing our monthly targets.
+3. Promotional rewards – earn swag boxes, hardware mining-nodes and more for successfully rising through our ambassador ranks.
+4. NFTs – collect limited edition Phala branded NFTs that are reserved only for our ambassadors.
+5. Networking opportunities – work alongside Phala’s core team and attend local events and conferences that are sponsored by the team.
+6. Mentorship & guidance – refine your skills and develop real-world experience in Web3.
+7. Recognition & influence - build a reputation, and maybe even a future career for yourself.
+8. Exclusive access – be the first to know about Phala’s official releases and upcoming product features. 
 
 ## Evaluation:
 - We value early supporters of the program.
