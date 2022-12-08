@@ -18,7 +18,7 @@ If you meet our criteria, and are interested in becoming part of the phamily, pl
 - Strong understanding of Phala's vision, products, and latest developments.
 - You’re an active member of our community and understand its culture. 
 - Experienced in either marketing, community management or content creation.
-- Able to communicate in English at an advanced or native level.
+- Able to communicate in english at an advanced or native level.
 - You’re passionate, patient, proactive, supportive, a quick learner and have strong communication skills. 
 
 ## Expectations:
@@ -35,7 +35,7 @@ If you meet our criteria, and are interested in becoming part of the phamily, pl
 1. Monthly rewards – receive $PHA for completing specific tasks.
 2. Result-based bonuses – earn extra $PHA for surpassing our monthly targets.
 3. Promotional rewards – earn swag boxes, hardware mining-nodes and more for successfully rising through our ambassador ranks.
-4. NFTs – collect limited edition Phala branded NFTs that are reserved only for our ambassadors.
+4. Unique NFTs – collect limited edition Phala branded NFTs that are reserved only for our ambassadors.
 5. Networking opportunities – work alongside Phala’s core team and attend local events and conferences that are sponsored by the team.
 6. Mentorship & guidance – refine your skills and develop real-world experience in Web3.
 7. Recognition & influence - build a reputation, and maybe even a future career for yourself.
