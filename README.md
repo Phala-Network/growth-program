@@ -60,7 +60,6 @@ If you meet our criteria, and are interested in becoming part of the phamily, pl
 
 ## Currently V.3 - updated December 2022
 
-
 1.	Tasks:
 -	Both mandatory and supplementary tasks are available.
 -	ALL mandatory tasks must be completed monthly.
@@ -77,14 +76,13 @@ If you meet our criteria, and are interested in becoming part of the phamily, pl
 -	You can choose the point-weight of each department. For example, if you choose Marketing and Content, Marketing can be worth 90% and Content can be worth 10% of the total available 80 points for departments.  
 -	The point-weight of supplementary tasks can vary per month, depending on Phala’s needs. 
 
-
 3. Rewards:
 -	You need to achieve at least 40% of the total points (40/100) to quality to receive rewards.
 -	If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
 -	If there is surplus PHA in a particular month, it will be distributed equally to those who achieved ≥90%.
 -	If there is surplus PHA and no one achieves ≥90%, it will be carried forward to the next month.
--	An example of how the calculation works can be found HERE.
--	The reward pool comes from the PHA Treasury. The reward pool may change depending on how much it is getting.
+-	An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1QsQUwl_pArltaJvJkZ66EUTgNpLyfRgV/edit?usp=sharing&ouid=100574805470537994931&rtpof=true&sd=true).
+-	The reward pool comes from the PHA [Treasury](https://khala.subscan.io/account/436H4jat8E3x6whTRudzJFuF1aFqkxmkYyQqNbh9C9EKhcz7). The reward pool may change depending on how much it is getting. The reward pool may change depending on how much it is getting.
 
 4. Ambassador hierarchy: 
 -	Our structure: advocate, candidate, ambassador, senior ambassador, and head ambassador.
