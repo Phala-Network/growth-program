@@ -111,7 +111,7 @@ All ambassadors must select 2/3 of the following departments.
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
 | PM | The promoter: promote Phala across relevant social media platforms. | 5 per month  | Reach & engagement | 10 |
 | HD | Help Desk: assist our community by answering their questions and sharing helpful resources. | 5 per month  | Speed & effectiveness  | 10 |
-| REC | The Recruiter: create awareness about our ambassador programme, both within our own community and other relevant communities. Please tell applicants to list you as their referer. | 5 per month  | Quantity & quality | 10 |
+| RC | The Recruiter: create awareness about our ambassador programme, both within our own community and other relevant communities. Please tell applicants to list you as their referer. | 5 per month  | Quantity & quality | 10 |
 | CC  | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is over 1k words) per week or make a maximum 10 minutes length of video about Phala Network per week. Content has to be ORIGINAL.  | 2 per month  | Quality & Reach  | 10 |
 | TT  | The Tutor: Write a how-to tutorial in your own words.  | 1 per month  | Quality & Reach  | 10 |
 | BH  | The Bughunter: Find bugs on any of Phala platforms. It can be a typo, grammar or technical bugs. Bugs need to be reported on Github issue and please go through all the existing issues to find if the bug has been reported.  | 5-10 bugs a month  | Quality  | 10 |
