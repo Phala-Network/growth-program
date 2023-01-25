@@ -82,7 +82,7 @@ If you meet our criteria, and are interested in becoming part of the phamily, pl
 -	If there is surplus PHA in a particular month, it will be distributed equally to those who achieved ≥90%.
 -	If there is surplus PHA and no one achieves ≥90%, it will be carried forward to the next month.
 -	An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1QsQUwl_pArltaJvJkZ66EUTgNpLyfRgV/edit?usp=sharing&ouid=100574805470537994931&rtpof=true&sd=true).
--	The reward pool comes from the PHA [Treasury](https://khala.subscan.io/account/436H4jat8E3x6whTRudzJFuF1aFqkxmkYyQqNbh9C9EKhcz7). The reward pool may change depending on how much it is getting. The reward pool may change depending on how much it is getting.
+-	The reward pool comes from the PHA [Treasury](https://khala.subscan.io/account/436H4jat8E3x6whTRudzJFuF1aFqkxmkYyQqNbh9C9EKhcz7). The reward pool may change depending on how much it is getting.
 
 4. Ambassador hierarchy: 
 -	Our structure: advocate, candidate, ambassador, senior ambassador, and head ambassador.
