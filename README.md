@@ -92,7 +92,7 @@ If you meet our criteria, and are interested in becoming part of the phamily, pl
 5. Scores:
 -	Participation is MANDATORY. Failure to achieve at least 40% points for a period of 3 consecutive months will result in the termination of your ambassadorship.
 -	Any ambassador candidates, who reach at least 65% points for a period of 3 consecutive months, will be promoted to the official ambassador position.
--	Any official ambassador, who reaches at least 80% points for a period of 3 consecutive months, will become a Senior Ambassador.
+-	Any official ambassador, who reaches at least 90% points for a period of 3 consecutive months, will become a Senior Ambassador.
 
 ## Departments
 
