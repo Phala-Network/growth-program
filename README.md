@@ -122,28 +122,60 @@ All ambassadors must select 2/4 of the following departments.
 | DEV  | The Developer: Development work and coding. Please reach out to us before proceeding with the task.  | TBD  | TBD  | TBD |
 
 > For any other types of contribution that is not listed above, please reach out to the team.
-#### Please submit your contribution by creating an issue on this repository latest by the 3rd day of the following month. Any late submission will not be accepted.
+#### Please submit your contribution by creating an issue on this repository latest by the 5th day of the following month. Any late submission will not be accepted.
 _Report Format Example_
+
 ```
 Title: June 2022 Contribution - {your #discord ID}
-Telegram Username: @ToTheMoon
-Discord Username: @ToTheMoon#1111
-Twitter Username: https://twitter.com/ToTheMoon
-PHA Wallet Address: kME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
+ 
+1. Personal info:
 
-Contributions:
-CM - 1) Good points, 2) bad points, 3) how to improve
-[add statistics here]
-
-VSM - Tweeted 4 memes & .
-[link to your twitter account and analytics url]
-[Screenshot of your Twitter account stats https://analytics.twitter.com/]
-
-BH - Found 8 bugs
-[links to the bugs that you reported on Github]
-
-TT - Wrote a tutorial
-[link to tutorial and statistics screenshot]
+- Amb rank: X
+- Telegram Username: Y
+- Twitter URL: X
+- PHA Wallet Address: Y
+- Departments: [1]/[2]
+ 
+2. Departments:
+ 
+· CM:
+- List all completed tasks.
+- [add statistics here]
+- Good points
+- Bad points.
+- How to improve your performance for next month.
+ 
+· MK:
+- List all completed tasks.
+- [add statistics here]
+- Good points
+- Bad points.
+- How to improve your performance for next month.
+ 
+3. Supplementary tasks:
+ 
+· BH:
+- List completed task/s.
+- Explain your contribution e.g. what bug did you discover.
+- Explain the importance/value of completing this specific task.
+           	
+· TT:
+- List completed task/s.
+- Explain your contribution e.g.what tutorial did you create. 
+- Explain the importance/value of completing this specific task.
+ 
+4. Suggested scores: 
+ 
+- [Department 1] X/40
+- [Department 2] X/40
+ 
+- [Supplementary task 1] X/10
+- [Supplementary task 2] X/10
+ 
+- Overall suggested score: X/100.
+ 
+- Has your performance improved or deteriorated from last month? Why? How?
+- Justify why you have suggested these scores. 
 ```
 
 _The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1btEBrHLp973aLkkbAzrdp38ymjc1Eyht/edit?usp=sharing&ouid=108223921172009155919&rtpof=true&sd=true)._
