@@ -96,7 +96,7 @@ If you meet our criteria, and are interested in becoming part of the phamily, pl
 
 ## Departments
 
-All ambassadors must select 2/3 of the following departments.
+All ambassadors must select 2/4 of the following departments.
 
 | ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
