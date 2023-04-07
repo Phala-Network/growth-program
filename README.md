@@ -103,7 +103,7 @@ All ambassadors must select 2/3 of the following departments.
 | MK | Marketing: co-create and execute marketing strategies and host online or offline promotional events. The goals of this department are to increase engagement, community growth, product usage and brand awareness. | Daily | Quality & consistency |  VAR |
 | CM | Community: nurture, support and manage your local and our global Phala community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  VAR |
 | CC | Content: supply other departments with a variety of content which excites, educates, converts, or reassures community members. The goal of this department is to  facilitate deeper conversations and connections within and outside of our community. | Daily | Quality & consistency |  VAR |
-
+| CP | Compute: Foster and expedite a flourishing environment for Phala’s compute ecosystem.  | Daily | Quality & consistency |  VAR |
 
 ## Supplementary Task (Choose up to 2 tasks/month)
 
