@@ -136,7 +136,7 @@ Title: June 2022 Contribution - {your #discord ID}
  
 - [Department 1] X/40
 - [Department 2] X/40
-- [Department 3] X/40
+- [Department 3] X/40 (if applicable)
 
  
 - Overall suggested score: X/100.
