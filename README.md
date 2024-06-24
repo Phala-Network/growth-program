@@ -1,128 +1,107 @@
-# Phala Ambassador Program
+# Phala Ambassador Program V.4 
 > 📢 This program is tracked transparently on GitHub.
 ![Phala_type_grn (1)](https://user-images.githubusercontent.com/39883171/177120886-1cee7f65-b73d-4987-89fd-7cbe1038f85e.png)
-# Ambassador Program
+# Phala Ambassador Program V.4 - updated July 2024
 
 ## Overview
 
-Phala ambassadors are an extension of our community team. They’re passionate community members, who are rewarded for volunteering to perform marketing, community, and content related tasks. 
+Phala Ambassadors are enthusiastic community members who volunteer to assist Phala Network in marketing, community management, content creation, etc. and receiving $PHA as compensation for their efforts. 
 
-At Phala, we are focused on creating the best possible community and our ambassadors play a major role in acting as a bridge between Phala and the communities around the world.
-
-If you meet our criteria, and are interested in becoming part of the phamily, please fill out the following 
-[application](https://forms.gle/aJwXywgHuU9Xek4z5). May Phala be with you! 🤘
-
+As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambassador, 7 Senior Ambassadors and 12 Ambassadors. These active 20 Ambassadors share a monthly token pool of 84,000 $PHA, distributed based on their performances. Phala plans to recruit 30 more Ambassadors in the latter half of the year of 2024. If you meet the criteria, and are interested in becoming part of the Phala Ambassador Phamily, please fill out the 
+[application](https://forms.gle/aJwXywgHuU9Xek4z5). 
 
 ## Criteria:
 
-- Strong understanding of Phala's vision, products, and latest developments.
-- You’re an active member of our community and understand its culture. 
-- Experienced in either marketing, community management or content creation.
-- Able to communicate in english at an advanced or native level.
-- You’re passionate, patient, proactive, supportive, a quick learner and have strong communication skills. 
-
-## Expectations:
-
-- Grow and nurture our community.
-- Closely follow Phala’s latest news and events.
-- Co-create a fun, supportive and collaborative environment for our ambassador team.
-- A passion for educating the Web3 community about Phala's ecosystem.
-- Play a key role in our marketing, community management and content creation efforts.
-
-
+1. Expertise
+   - Proficient in communicating in English at an advanced or native level.
+   - Solid knowledge of Web3, including blockchain, DeFi, and AI.
+   - Experienced in areas such as Web3 community management, marketing, content creation, business development, or Web3 technology.
+   - Ability to propose and execute innovative ideas.
+2. Commitment
+   - Strong understanding of Phala's vision, products, and latest developments.
+   - Actively engage with the Phala core team and community members.
+   - Proactive in supporting the Phala team and community.
+3. Influence
+   - Demonstrated strong presence and leadership within various ecosystem communities.
+   - Strong social media presence and thought leadership skills.
+  
 ## Benefits:
 
 1. Monthly rewards – receive $PHA for completing specific tasks.
-2. Result-based bonuses – earn extra $PHA for surpassing our monthly targets.
-3. Promotional rewards – earn swag boxes, hardware mining-nodes and more for successfully rising through our ambassador ranks.
-4. Unique NFTs – collect limited edition Phala branded NFTs that are reserved only for our ambassadors.
-5. Networking opportunities – work alongside Phala’s core team and attend local events and conferences that are sponsored by the team.
-6. Mentorship & guidance – refine your skills and develop real-world experience in Web3.
-7. Recognition & influence - build a reputation, and maybe even a future career for yourself.
-8. Exclusive access – be the first to know about Phala’s official releases and upcoming product features. 
+2. Leadership bonuses – earn additional $PHA as bonuses for demonstrating successful leadership.
+3. Promotional bonuses – earn additional $PHA for successfully rising through our ambassador ranks.
+4. Other benefits and perks offered by Phala Network such as your own Web3 AI Agent. 
+5. Networking opportunities – work alongside Phala’s core team and attend local events and conferences that are sponsored by the Phala team.
+6. Recognition & influence - build a reputation, and maybe even a future career for yourself.
+7. Exclusive access – be the first to know about Phala’s official releases and upcoming product features. 
 
-## Evaluation:
-- We value early supporters of the program.
-- We value your area of expertise.
-- We value your experience with community management.
-- We value your commitment to the program.
-- We value the impact of your existing and future contributions to the ecosystem.
-- We value transparency in the nature of your work and contributions.
-- We value your ability to work with other candidates, ambassadors and community members.
-- We value your efforts in growing an active community that wants to see Phala succeed.
-- We value your referrer and your future referrals.
+## Ambassador Responsibilities:   
 
-## Apply Now
-[Click here to apply!](https://forms.gle/aJwXywgHuU9Xek4z5)
+1.	The Basics:
+      - Proactively understand Phala product, Phala branding & narrative, ongoing Phala campaign (e.g., Why are we doing it? Who are we targeting? How can I help?); Ask questions if needed.
+      - Demonstrate progress and increase value by consistently delivering high-quality work, and showing measurable improvements in your areas of responsibilities; Support Phala's success and also advance your own professional growth and credibility in the Web3 space.
+
+2. Community Management:
+   - Online Community Moderation: Closely monitor Phala’s online community channels to ensure adherence to community guidelines and foster a respectful and positive environment; Install necessary bots based on the needs of the community; Address and resolve conflicts or issues that arise within the community swiftly and diplomatically.
+   - Translation: Phala Network has a global audience with community members who speak different languages. Translating documents ensures that non-English speaking members can access, understand, and engage with Phala.
+
+3. Marketing:
+   - Plan & Organize Phala Online Events: Design and plan online events such as virtual meetups, workshops, AMAs, etc.; Promote events through social media, newsletters, etc.; Host and moderate online events, ensuring a professional and engaging experience for attendees.
+   - Plan & Organize Phala Offline Events: Organize offline events such as meetups, networking sessions, university meetups, community gatherings, etc. Promote events independently or/and with the Phala team; Manage on-site logistics and ensure a welcome and inclusive atmosphere at all events; Collect and analyze feedback from event participants to measure success.
+
+4. Content Creation:
+   - Develop and share engaging content, including blog posts, newsletters, social media updates, videos, and tutorials to keep the community informed and engaged; Collaborate with the marketing team to align content strategies and promote relevant updates.
+   - Produce illustrations, AI art, graphics, animations and other forms of visual art for various platforms such as social media, marketing materials and events; Create original artwork which is consistent with Phala’s brand guidelines and overall visual identity.
+  
+5. Business Development:
+   - Partner Outreach and Relationship Building: identify, develop and maintain strong, long-term relationships with potential Phala partners to foster collaboration and mutual growth.
+   - Work closely with Phala’s Business Development team to identify the target market, use scoring techniques to assess the quality of each lead; Build pipelines for potential project leads and define clear stages in the pipeline and move leads through these stages systematically; Ensure a seamless handoff of qualified leads to the appropriate internal teams for further engagement.
+  
+6. Tech Assistance:
+   - Work closely with Phala’s DevRel team to develop use cases of Phala’s AI Agent Contract.
+   - Help integrate Phala’s Agent Wars on some other platforms such as Frame on Farcaster.
+   - Perform others tasks assigned
+
+7. Others:
+   - Serve as Regional Team Leaders.
+   - Make other outstanding contributions to Phala Network throughout the evaluation month.
+
+## How the Ambassador Program works:
+
+1. Understand the Token Allocation (of the $PHA token pool) for each department:
+   - Basic Responsibilities (10%)
+   - Community Management (25%)
+   - Marketing (20%)
+   - Content Creation (20%)
+   - Business Development (10%)
+   - Tech Assistance (10%)
+   - Others (5%)
+   - Additional Promotional Bonus (outside of the token pool)
+     - Head Ambs: 4000 $PHA/month
+     - Senior Ambs: 2000 $PHA/month
+
+2. Choose Your Tasks:
+   - Ambassadors will have to choose at least two and can choose up to three departments, out of the five departments (CM, MK, CC, BD & Tech), to work on each month.
+   - There is a total of 40 points per month per department - 20 points for efforts and 20 points for results.
+   - Ambassadors will be able to seek support from their regional team leaders while executing the tasks.
+  
+3. Evaluation:
+   - Contribution will be evaluated on a monthly basis; Points will be calculated based on the evidence submitted in Ambassadors' monthly Github issues.
+   - Submit your contribution by creating an issue on this repository latest by the 5th day of the following month. Any late submission will not be accepted.
+   - Any ambassador candidates, who reach at least 65% points for a period of 3 consecutive months, will be promoted to the official ambassador position.
+   - Any official ambassador, who reaches at least 90% points for a period of 3 consecutive months, will become a Senior Ambassador.
+
+4. Receive $PHA Rewards:
+   - For every 5 new Ambassadors joining the program, an additional 21,000 $PHA will be added to the token pool.
+   - The reward pool comes from the PHA [Treasury](https://phala.subscan.io/account/41PLCEdup7XdUH4hsik4hyFoihDRYKfpN2K48jZH8ehL2tP2).
+   - The token allocation to each department may change depending on how the recruitment goes.
+   - Future $PHA will ONLY be distributed to the ambassadors' addresses on Phala Network.
+
+5. Ambassador hierarchy:
+   - Our structure: candidate, ambassador, senior ambassador, and head ambassador.
+   - Your starting position will depend on how well your application meets our criteria: expertise, commitment and influence. 
 
 
-# How does the ambassador programme work?
-
-## Currently V.3 - updated December 2022
-
-1.	Tasks:
--	Both mandatory and supplementary tasks are available.
--	ALL mandatory tasks must be completed monthly.
--	Supplementary tasks are optional but encouraged.
--	Mandatory tasks will vary, depending on your chosen departments.
-- You must choose two departments: marketing, community or content.
--	A maximum of 2 different supplementary tasks can be completed, per month.
-
-2. Points:
-
--	There is a total of 100 points per month.
--	The total amount of points awarded to departments are 80 (80/100). 
--	The total amount of points awarded to supplementary tasks are 20 (20/100). 
--	You can choose the point-weight of each department. For example, if you choose Marketing and Content, Marketing can be worth 90% and Content can be worth 10% of the total available 80 points for departments.  
--	The point-weight of supplementary tasks can vary per month, depending on Phala’s needs. 
-
-3. Rewards:
--	You need to achieve at least 40% of the total points (40/100) to quality to receive rewards.
--	If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
--	If there is surplus PHA in a particular month, it will be distributed equally to those who achieved ≥90%.
--	If there is surplus PHA and no one achieves ≥90%, it will be carried forward to the next month.
--	An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1QsQUwl_pArltaJvJkZ66EUTgNpLyfRgV/edit?usp=sharing&ouid=100574805470537994931&rtpof=true&sd=true).
--	The reward pool comes from the PHA [Treasury](https://khala.subscan.io/account/436H4jat8E3x6whTRudzJFuF1aFqkxmkYyQqNbh9C9EKhcz7). The reward pool may change depending on how much it is getting.
-
-4. Ambassador hierarchy: 
--	Our structure: advocate, candidate, ambassador, senior ambassador, and head ambassador.
--	All successful applicants to our ambassador programme will begin as either an advocate or a candidate. 
--	Your starting position will depend on how well your application meets our criteria: skillsets, experience, knowledge of Phala and your standard of English. 
-
-5. Scores:
--	Participation is MANDATORY. Failure to achieve at least 40% points for a period of 3 consecutive months will result in the termination of your ambassadorship.
--	Any ambassador candidates, who reach at least 65% points for a period of 3 consecutive months, will be promoted to the official ambassador position.
--	Any official ambassador, who reaches at least 90% points for a period of 3 consecutive months, will become a Senior Ambassador.
-
-## Departments
-
-All ambassadors must select 2/4 of the following departments.
-
-| ID  | Description | Required Quantity  | KPI | Max Points |
-|  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
-| MK | Marketing: co-create and execute marketing strategies and host online or offline promotional events. The goals of this department are to increase engagement, community growth, product usage and brand awareness. | Daily | Quality & consistency |  VAR |
-| CM | Community: nurture, support and manage your local and our global Phala community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  VAR |
-| CC | Content: supply other departments with a variety of content which excites, educates, converts, or reassures community members. The goal of this department is to  facilitate deeper conversations and connections within and outside of our community. | Daily | Quality & consistency |  VAR |
-| CP | Compute: provide an effective support system for Phala’s core ecosystem team. The goal of this department is to foster and expedite a flourishing environment for Phala’s compute ecosystem.  | Daily | Quality & consistency |  VAR |
-
-## Supplementary Task (Choose up to 2 tasks/month)
-
-| ID  | Description | Required Quantity  | KPI | Max Points |
-|  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
-| PM | The promoter: promote Phala across relevant social media platforms. | 5 per month  | Reach & engagement | 10 |
-| HD | Help Desk: assist our community by answering their questions and sharing helpful resources. | 5 per month  | Speed & effectiveness  | 10 |
-| QC | Quality control: reduce/eliminate inaccurate/misleading content whilst educating our community/amb team. | 5 per month  | Speed & effectiveness  | 10 |
-| RC | The Recruiter: create awareness about our ambassador programme, both within our own community and other relevant communities. Please tell applicants to list you as their referer. | 5 per month  | Quantity & quality | 20 |
-| CC  | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is over 1k words) per week or make a maximum 10 minutes length of video about Phala Network per week. Content has to be ORIGINAL.  | 2 per month  | Quality & Reach  | 10 |
-| TT  | The Tutor: Write a how-to tutorial in your own words.  | 1 per month  | Quality & Reach  | 10 |
-| BH  | The Bughunter: Find bugs on any of Phala platforms. It can be a typo, grammar or technical bugs. Bugs need to be reported on Github issue and please go through all the existing issues to find if the bug has been reported.  | 5-10 bugs a month  | Quality  | 10 |
-| EM  | The Event Manager: Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session.  | 1 per month  | Quality & Engagement  | 10 |
-| BD  | The Business Developer: Reach out to projects to build on Phala Network. You have to be able to pitch about Phala before handing over the project to Marvin or Shelven and Will. Special bonus will be given when it is a native Phala project (which means they previously have never launched on any other chains).  | 1 per month  | Quality & Success  | 10 |
-| ART  | The Artist: This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use.  | 1 per month  | Quality  | 10 |
-| DEV  | The Developer: Development work and coding. Please reach out to us before proceeding with the task.  | TBD  | TBD  | TBD |
-
-> For any other types of contribution that is not listed above, please reach out to the team.
-#### Please submit your contribution by creating an issue on this repository latest by the 5th day of the following month. Any late submission will not be accepted.
 _Report Format Example_
 
 ```
@@ -131,10 +110,10 @@ Title: June 2022 Contribution - {your #discord ID}
 1. Personal info:
 
 - Amb rank: X
-- Telegram Username: Y
+- Discord Username: Y
 - Twitter URL: X
 - PHA Wallet Address: Y
-- Departments: [1]/[2]
+- Departments: [1]/[2]/[3](if applicable)
  
 2. Departments:
  
@@ -152,25 +131,13 @@ Title: June 2022 Contribution - {your #discord ID}
 - Bad points.
 - How to improve your performance for next month.
  
-3. Supplementary tasks:
- 
-· BH:
-- List completed task/s.
-- Explain your contribution e.g. what bug did you discover.
-- Explain the importance/value of completing this specific task.
-           	
-· TT:
-- List completed task/s.
-- Explain your contribution e.g.what tutorial did you create. 
-- Explain the importance/value of completing this specific task.
  
 4. Suggested scores: 
  
 - [Department 1] X/40
 - [Department 2] X/40
- 
-- [Supplementary task 1] X/10
-- [Supplementary task 2] X/10
+- [Department 3] X/40 (if applicable)
+
  
 - Overall suggested score: X/100.
  
