@@ -38,8 +38,8 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
 ## Ambassador Responsibilities:   
 
 1.	The Basics:
-   - Proactively understand Phala product, Phala branding & narrative, ongoing Phala campaign (e.g., Why are we doing it? Who are we targeting? How can I help?); Ask questions if needed.
-   - Demonstrate progress and increase value by consistently delivering high-quality work, and showing measurable improvements in your areas of responsibilities; Support Phala's success and also advance your own professional growth and credibility in the Web3 space.
+      - Proactively understand Phala product, Phala branding & narrative, ongoing Phala campaign (e.g., Why are we doing it? Who are we targeting? How can I help?); Ask questions if needed.
+      - Demonstrate progress and increase value by consistently delivering high-quality work, and showing measurable improvements in your areas of responsibilities; Support Phala's success and also advance your own professional growth and credibility in the Web3 space.
 
 2. Community Management:
    - Online Community Moderation: Closely monitor Phala’s online community channels to ensure adherence to community guidelines and foster a respectful and positive environment; Install necessary bots based on the needs of the community; Address and resolve conflicts or issues that arise within the community swiftly and diplomatically.
