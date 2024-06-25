@@ -91,12 +91,21 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
    - Any ambassador candidates, who reach at least 65% points for a period of 3 consecutive months, will be promoted to the official ambassador position.
    - Any official ambassador, who reaches at least 90% points for a period of 3 consecutive months, will become a Senior Ambassador.
 
-4. Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and 35 in MK out of 200, and because the CM task is allocated 25% of the token pool, CC 20% and MK 20%, then Ambassador A's $PHA reward will be calculated as follows: 
+4. Understand Reward Calculation:
+   - Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and 35 in MK out of 200, and because the CM task is allocated 25% of the token pool, CC 20% and MK 20%, then Ambassador A's $PHA reward will be calculated as follows: 
 
 $$
 \left(\frac{30}{240}\right) \times (84,000 \times 0.25) + \left(\frac{28}{180}\right) \times (84,000 \times 0.20) + \left(\frac{35}{200}\right) \times (84,000 \times 0.20) 
 $$
-  
+
+   -  Here is an example of calculating the total scores given in a department: Let’s say 5 Ambassadors (Amb A, B, C, D, and E) choose to work on Community Management for that month and have received the following scores:
+     - Amb A: 38
+     - Amb B: 32
+     - Amb C: 20
+     - Amb D: 25
+     - Amb E: 30
+      The total score is therefore 38 + 32 + 20 + 25 + 30 = 145. Amb A’s reward will then be \(\frac{38}{145}\) of the token pool allocated to Community Management (25%). 
+
 5. Receive $PHA Rewards:
    - For every 5 new Ambassadors joining the program, an additional 21,000 $PHA will be added to the token pool.
    - The reward pool comes from the PHA [Treasury](https://phala.subscan.io/account/41PLCEdup7XdUH4hsik4hyFoihDRYKfpN2K48jZH8ehL2tP2).
