@@ -98,7 +98,7 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
      - Amb C: 20
      - Amb D: 25
      - Amb E: 30
-     - The total score is therefore 38 + 32 + 20 + 25 + 30 = 145. Amb A’s reward will then be $$\left(\frac{38}{145}\right)$$ of the token pool allocated to Community Management (25%). 
+     - The total score is therefore 38 + 32 + 20 + 25 + 30 = 145. Amb A’s reward, out of the tolen pool allocated to Community Management (25%), will then be $$\left(\frac{38}{145}\right)$$ 
    - Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and 35 in MK out of 200, and because the CM task is allocated 25% of the token pool, CC 20% and MK 20%, then Ambassador A's $PHA reward will be calculated as follows: 
 
 $$
