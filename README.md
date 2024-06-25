@@ -104,6 +104,7 @@ $$
      - Amb C: 20
      - Amb D: 25
      - Amb E: 30
+     
      The total score is therefore 38 + 32 + 20 + 25 + 30 = 145. Amb A’s reward will then be \(\frac{38}{145}\) of the token pool allocated to Community Management (25%). 
 
 5. Receive $PHA Rewards:
