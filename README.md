@@ -91,13 +91,19 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
    - Any ambassador candidates, who reach at least 65% points for a period of 3 consecutive months, will be promoted to the official ambassador position.
    - Any official ambassador, who reaches at least 90% points for a period of 3 consecutive months, will become a Senior Ambassador.
 
-4. Receive $PHA Rewards:
+4. Understand how the rewards are calculated:
+   - Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and 35 in MK out of 200, then Ambassador A's $PHA reward will be calculated as follows:
+     \[
+\left(\frac{30}{240}\right) \times (84,000 \times 25\%) + \left(\frac{28}{180}\right) \times (84,000 \times 20\%) + \left(\frac{35}{200}\right) \times (84,000 \times 20\%) = 2,625 + 2,613 + 2,940 = 8,178 \, \text{\$PHA}
+\]
+  
+5. Receive $PHA Rewards:
    - For every 5 new Ambassadors joining the program, an additional 21,000 $PHA will be added to the token pool.
    - The reward pool comes from the PHA [Treasury](https://phala.subscan.io/account/41PLCEdup7XdUH4hsik4hyFoihDRYKfpN2K48jZH8ehL2tP2).
    - The token allocation to each department may change depending on how the recruitment goes.
    - Future $PHA will ONLY be distributed to the ambassadors' addresses on Phala Network.
 
-5. Ambassador hierarchy:
+6. Ambassador hierarchy:
    - Our structure: candidate, ambassador, senior ambassador, and head ambassador.
    - Your starting position will depend on how well your application meets our criteria: expertise, commitment and influence. 
 
