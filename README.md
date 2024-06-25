@@ -98,7 +98,7 @@ $$
 \left(\frac{30}{240}\right) \times (84,000 \times 0.25) + \left(\frac{28}{180}\right) \times (84,000 \times 0.20) + \left(\frac{35}{200}\right) \times (84,000 \times 0.20) 
 $$
 
-    - Here is an example of calculating the total scores given in a department: Let’s say 5 Ambassadors (Amb A, B, C, D, and E) choose to work on Community Management for that month and have received the following scores:
+   - Here is an example of calculating the total scores given in a department: Let’s say 5 Ambassadors (Amb A, B, C, D, and E) choose to work on Community Management for that month and have received the following scores:
        - Amb A: 38
        - Amb B: 32
        - Amb C: 20
