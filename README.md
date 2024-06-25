@@ -94,7 +94,7 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
 4. Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and 35 in MK out of 200, then Ambassador A's $PHA reward will be calculated as follows: 
 
 $$
-\left(\frac{30}{240}\right) \times (84,000 \times 25\%) + \left(\frac{28}{180}\right) \times (84,000 \times 20\%) + \left(\frac{35}{200}\right) \times (84,000 \times 20\%) 
+\left(\frac{30}{240}\right) \times (84,000 \times 25%) + \left(\frac{28}{180}\right) \times (84,000 \times 20\%) + \left(\frac{35}{200}\right) \times (84,000 \times 20\%) 
 $$
   
 5. Receive $PHA Rewards:
