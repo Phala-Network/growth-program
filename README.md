@@ -82,7 +82,7 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
 
 2. Choose Your Tasks:
    - Ambassadors will have to choose at least two and can choose up to three departments, out of the five departments (CM, MK, CC, BD & Tech), to work on each month.
-   - There is a total of 40 points per month per department - 20 points for efforts and 20 points for results.
+   - There is a total of 40 points per month per department - 20 points for the efforts and 20 points for the results.
    - Ambassadors will be able to seek support from their regional team leaders while executing the tasks.
   
 3. Evaluation:
@@ -98,7 +98,7 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
      - Amb C: 20
      - Amb D: 25
      - Amb E: 30
-     - The total score is therefore 38 + 32 + 20 + 25 + 30 = 145. Amb A’s reward, out of the tolen pool allocated to Community Management (25%), will then be: $$\left(\frac{38}{145}\right)$$ 
+     - The total score is therefore 38 + 32 + 20 + 25 + 30 = 145. Amb A’s reward, out of the token pool allocated to Community Management (25%), will then be: $$\left(\frac{38}{145}\right)$$ 
    - Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and 35 in MK out of 200, and because the CM task is allocated 25% of the token pool, CC 20% and MK 20%, then Ambassador A's $PHA reward will be calculated as follows: 
 
 $$
@@ -109,7 +109,7 @@ $$
    - For every 5 new Ambassadors joining the program, an additional 21,000 $PHA will be added to the token pool.
    - The reward pool comes from the PHA [Treasury](https://phala.subscan.io/account/41PLCEdup7XdUH4hsik4hyFoihDRYKfpN2K48jZH8ehL2tP2).
    - The token allocation to each department may change depending on how the recruitment goes.
-   - Future $PHA will ONLY be distributed to the ambassadors' addresses on Phala Network.
+   - Future $PHA will ONLY be distributed to the ambassadors' wallet addresses on Phala Network.
 
 6. Ambassador hierarchy:
    - Our structure: candidate, ambassador, senior ambassador, and head ambassador.
