@@ -41,23 +41,23 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
       - Proactively understand Phala product, Phala branding & narrative, ongoing Phala campaign (e.g., Why are we doing it? Who are we targeting? How can I help?); Ask questions if needed.
       - Demonstrate progress and increase value by consistently delivering high-quality work, and showing measurable improvements in your areas of responsibilities; Support Phala's success and also advance your own professional growth and credibility in the Web3 space.
 
-2. Community Management:
+2. Community Management (CM):
    - Online Community Moderation: Closely monitor Phala’s online community channels to ensure adherence to community guidelines and foster a respectful and positive environment; Install necessary bots based on the needs of the community; Address and resolve conflicts or issues that arise within the community swiftly and diplomatically.
    - Translation: Phala Network has a global audience with community members who speak different languages. Translating documents ensures that non-English speaking members can access, understand, and engage with Phala.
 
-3. Marketing:
+3. Marketing (MK):
    - Plan & Organize Phala Online Events: Design and plan online events such as virtual meetups, workshops, AMAs, etc.; Promote events through social media, newsletters, etc.; Host and moderate online events, ensuring a professional and engaging experience for attendees.
    - Plan & Organize Phala Offline Events: Organize offline events such as meetups, networking sessions, university meetups, community gatherings, etc. Promote events independently or/and with the Phala team; Manage on-site logistics and ensure a welcome and inclusive atmosphere at all events; Collect and analyze feedback from event participants to measure success.
 
-4. Content Creation:
+4. Content Creation (CC):
    - Develop and share engaging content, including blog posts, newsletters, social media updates, videos, and tutorials to keep the community informed and engaged; Collaborate with the marketing team to align content strategies and promote relevant updates.
    - Produce illustrations, AI art, graphics, animations and other forms of visual art for various platforms such as social media, marketing materials and events; Create original artwork which is consistent with Phala’s brand guidelines and overall visual identity.
   
-5. Business Development:
+5. Business Development (BD):
    - Partner Outreach and Relationship Building: identify, develop and maintain strong, long-term relationships with potential Phala partners to foster collaboration and mutual growth.
    - Work closely with Phala’s Business Development team to identify the target market, use scoring techniques to assess the quality of each lead; Build pipelines for potential project leads and define clear stages in the pipeline and move leads through these stages systematically; Ensure a seamless handoff of qualified leads to the appropriate internal teams for further engagement.
   
-6. Tech Assistance:
+6. Tech Assistance (TA):
    - Work closely with Phala’s DevRel team to develop use cases of Phala’s AI Agent Contract.
    - Help integrate Phala’s Agent Wars on some other platforms such as Frame on Farcaster.
    - Perform others tasks assigned
@@ -91,7 +91,7 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
    - Any ambassador candidates, who reach at least 65% points for a period of 3 consecutive months, will be promoted to the official ambassador position.
    - Any official ambassador, who reaches at least 90% points for a period of 3 consecutive months, will become a Senior Ambassador.
 
-4. Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and 35 in MK out of 200, then Ambassador A's $PHA reward will be calculated as follows: 
+4. Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and 35 in MK out of 200, and because the CM task is allocated 25% of the token pool, CC 20% and MK 20%, then Ambassador A's $PHA reward will be calculated as follows: 
 
 $$
 \left(\frac{30}{240}\right) \times (84,000 \times 0.25) + \left(\frac{28}{180}\right) \times (84,000 \times 0.20) + \left(\frac{35}{200}\right) \times (84,000 \times 0.20) 
