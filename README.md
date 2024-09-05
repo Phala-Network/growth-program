@@ -46,14 +46,18 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
    - Translation: Phala Network has a global audience with community members who speak different languages. Translating documents ensures that non-English speaking members can access, understand, and engage with Phala.
 
 3. Marketing (MK):
-   - Plan & Organize Phala Online Events: Design and plan online events such as virtual meetups, workshops, AMAs, etc.; Promote events through social media, newsletters, etc.; Host and moderate online events, ensuring a professional and engaging experience for attendees.
-   - Plan & Organize Phala Offline Events: Organize offline events such as meetups, networking sessions, university meetups, community gatherings, etc. Promote events independently or/and with the Phala team; Manage on-site logistics and ensure a welcome and inclusive atmosphere at all events; Collect and analyze feedback from event participants to measure success.
+   - Compile Marketing resources: Look for active Web3 communities including social media groups, online forums, media outlets, etc.
+   - Outreach based on the list: Prioritize and segment the list. Develop a tailored outreach strategy for each list segment. Consistent follow-up is key in outreach.
+   - Engage and interact: Co-host or co-market events. Establish success metrics. 
 
 4. Content Creation (CC):
    - Develop and share engaging content, including blog posts, newsletters, social media updates, videos, and tutorials to keep the community informed and engaged; Collaborate with the marketing team to align content strategies and promote relevant updates.
    - Produce illustrations, AI art, graphics, animations and other forms of visual art for various platforms such as social media, marketing materials and events; Create original artwork which is consistent with Phala’s brand guidelines and overall visual identity.
   
 5. Business Development (BD):
+   - Plan & Organize Phala Online Events: Design and plan online events such as virtual meetups, workshops, AMAs, etc.; Promote events through social media, newsletters, etc.; Host and moderate online events, ensuring a professional and engaging experience for attendees.
+   - Plan & Organize Phala Offline Events: Organize offline events such as meetups, networking sessions, university meetups, community gatherings, etc. Promote events independently or/and with the Phala team; Manage on-site logistics and ensure a welcome and inclusive atmosphere at all events; Collect leads and analyze feedback from event participants to measure success.
+   - Attend blockchain events and collect project leads.
    - Partner Outreach and Relationship Building: identify, develop and maintain strong, long-term relationships with potential Phala partners to foster collaboration and mutual growth.
    - Work closely with Phala’s Business Development team to identify the target market, use scoring techniques to assess the quality of each lead; Build pipelines for potential project leads and define clear stages in the pipeline and move leads through these stages systematically; Ensure a seamless handoff of qualified leads to the appropriate internal teams for further engagement.
   
