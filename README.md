@@ -47,8 +47,9 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
 
 3. Marketing (MK):
    - Compile Marketing resources: Look for active Web3 communities including social media groups, online forums, media outlets, etc.
-   - Outreach based on the list: Prioritize and segment the list. Develop a tailored outreach strategy for each list segment. Consistent follow-up is key in outreach.
-   - Engage and interact: Co-host or co-market events. Establish success metrics. 
+   - Outreach Based on the List: Prioritize and segment the list. Develop a tailored outreach strategy for each list segment. Consistent follow-up is key in outreach.
+   - Engage and Interact: Co-host or co-market events. Establish success metrics.
+   - Evaluate and Report: Analyze data and adapt strategy. Regularly report to Regional Leaders. 
 
 4. Content Creation (CC):
    - Develop and share engaging content, including blog posts, newsletters, social media updates, videos, and tutorials to keep the community informed and engaged; Collaborate with the marketing team to align content strategies and promote relevant updates.
