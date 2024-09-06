@@ -130,6 +130,7 @@ Title: June 2022 Contribution - {your #discord ID}
 
 - Amb rank: X
 - Discord Username: Y
+- Telegram Username: Z
 - Twitter URL: X
 - PHA Wallet Address: Y
 - Departments: [1]/[2]/[3](if applicable)
