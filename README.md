@@ -1,6 +1,7 @@
 # Phala Ambassador Program V.5 
 > 📢 This program is tracked transparently on GitHub.
-![Phala_type_grn (1)](https://user-images.githubusercontent.com/39883171/177120886-1cee7f65-b73d-4987-89fd-7cbe1038f85e.png)
+![Phala_type_grn (1)][1500x500](https://github.com/user-attachments/assets/21144907-6a9f-4ac6-a726-3798596b9f0f)
+
 # Phala Ambassador Program V.5 - updated March 2025
 
 ## Overview
