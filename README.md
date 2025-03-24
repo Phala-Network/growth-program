@@ -1,13 +1,13 @@
-# Phala Ambassador Program V.4 
+# Phala Ambassador Program V.5 
 > 📢 This program is tracked transparently on GitHub.
 ![Phala_type_grn (1)](https://user-images.githubusercontent.com/39883171/177120886-1cee7f65-b73d-4987-89fd-7cbe1038f85e.png)
-# Phala Ambassador Program V.4 - updated July 2024
+# Phala Ambassador Program V.5 - updated March 2025
 
 ## Overview
 
 Phala Ambassadors are enthusiastic community members who volunteer to assist Phala Network in marketing, community management, content creation, etc. and receiving $PHA as compensation for their efforts. 
 
-As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambassador, 7 Senior Ambassadors and 12 Ambassadors. These active 20 Ambassadors share a monthly token pool of 84,000 $PHA, distributed based on their performances. Phala plans to recruit 30 more Ambassadors in the latter half of the year of 2024. If you meet the criteria, and are interested in becoming part of the Phala Ambassador Phamily, please fill out the 
+As of March, 2025, the Phala Network Ambassador Program consists of 2 Head Ambassador, 4 Senior Ambassadors and 15 active Ambassadors. These active 21 Ambassadors share a monthly token pool of 90,000 $PHA, distributed based on their performances. Phala plans to recruit 30 more Ambassadors in the year of 2025. If you meet the criteria, and are interested in becoming part of the Phala Ambassador Phamily, please fill out the 
 [application](https://bit.ly/AmbsApp). 
 
 ## Criteria:
@@ -37,56 +37,36 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
 
 ## Ambassador Responsibilities:   
 
-1.	The Basics:
-      - Proactively understand Phala product, Phala branding & narrative, ongoing Phala campaign (e.g., Why are we doing it? Who are we targeting? How can I help?); Ask questions if needed.
-      - Demonstrate progress and increase value by consistently delivering high-quality work, and showing measurable improvements in your areas of responsibilities; Support Phala's success and also advance your own professional growth and credibility in the Web3 space.
+1. Community Management (CM):
+   - Online Community Moderation: Monitor and manage Phala’s online community platforms (e.g., Discord, Telegram, Twitter, Reddit, etc.) to ensure conversations remain respectful, inclusive, and aligned with community guidelines. Install and configure moderation bots or tools as necessary to streamline community management and automate repetitive tasks. Actively address and resolve conflicts, misinformation, or inappropriate behavior in a timely and diplomatic manner, helping to maintain a safe and welcoming space for all members.
+   - Translation and Localization: Support the growth of Phala’s global community by translating official announcements, technical documents, blog posts, and other content into local languages. Ensure translations are accurate and culturally sensitive, allowing non-English speaking members to access, understand, and participate in the ecosystem more effectively. Collaborate with other Ambassadors or regional teams to ensure consistency and coverage across key regions.
 
-2. Community Management (CM):
-   - Online Community Moderation: Closely monitor Phala’s online community channels to ensure adherence to community guidelines and foster a respectful and positive environment; Install necessary bots based on the needs of the community; Address and resolve conflicts or issues that arise within the community swiftly and diplomatically.
-   - Translation: Phala Network has a global audience with community members who speak different languages. Translating documents ensures that non-English speaking members can access, understand, and engage with Phala.
-
-3. Marketing (MK):
-   - Compile Marketing resources: Look for active Web3 communities including social media groups, online forums, media outlets, etc.
-   - Outreach Based on the List: Prioritize and segment the list. Develop a tailored outreach strategy for each list segment. Consistent follow-up is key in outreach.
-   - Engage and Interact: Co-host or co-market events. Establish success metrics.
-   - Evaluate and Report: Analyze data and adapt strategy. Regularly report to Regional Leaders. 
-
-4. Content Creation (CC):
-   - Develop and share engaging content, including blog posts, newsletters, social media updates, videos, and tutorials to keep the community informed and engaged; Collaborate with the marketing team to align content strategies and promote relevant updates.
-   - Produce illustrations, AI art, graphics, animations and other forms of visual art for various platforms such as social media, marketing materials and events; Create original artwork which is consistent with Phala’s brand guidelines and overall visual identity.
+2. Content Creation (CC):
+   - Informative and Engaging Content: Create a variety of content formats such as blog posts, newsletters, Twitter threads, social media updates, educational videos, and technical tutorials. The aim is to inform and engage the community while promoting Phala’s mission, progress, and ecosystem news. Work closely with the marketing team to align content with broader campaigns and ensure messaging is consistent and impactful.
+   - Visual and Multimedia Production: Design and produce high-quality visual content including original illustrations, AI-generated art, infographics, animations, short-form videos, and other multimedia assets. These should align with Phala’s branding guidelines and help convey complex ideas in an accessible and visually appealing manner. Your creative work may be used across social media, event presentations, product launches, and marketing campaigns.
   
-5. Business Development (BD):
-   - Plan & Organize Phala Online Events: Design and plan online events such as virtual meetups, workshops, AMAs, etc.; Promote events through social media, newsletters, etc.; Host and moderate online events, ensuring a professional and engaging experience for attendees.
-   - Plan & Organize Phala Offline Events: Organize offline events such as meetups, networking sessions, university meetups, community gatherings, etc. Promote events independently or/and with the Phala team; Manage on-site logistics and ensure a welcome and inclusive atmosphere at all events; Collect leads and analyze feedback from event participants to measure success.
-   - Attend blockchain events and collect project leads.
-   - Partner Outreach and Relationship Building: identify, develop and maintain strong, long-term relationships with potential Phala partners to foster collaboration and mutual growth.
-   - Work closely with Phala’s Business Development team to identify the target market, use scoring techniques to assess the quality of each lead; Build pipelines for potential project leads and define clear stages in the pipeline and move leads through these stages systematically; Ensure a seamless handoff of qualified leads to the appropriate internal teams for further engagement.
-  
-6. Tech Assistance (TA):
-   - Work closely with Phala’s DevRel team to develop use cases of Phala’s AI Agent Contract.
-   - Help integrate Phala’s Agent Wars on some other platforms such as Frame on Farcaster.
-   - Perform others tasks assigned
+3. Business Development (BD):
+   - Lead Generation and Pipeline Building: Identify potential partners and project opportunities that align with Phala’s vision. Build and maintain a structured pipeline to track and qualify project leads, using scoring techniques or predefined metrics to evaluate quality and strategic fit.
+   - Outreach and Relationship Management: Proactively reach out to potential collaborators, projects, and organizations to explore partnership opportunities. Establish and nurture strong, long-term relationships that support Phala’s growth and ecosystem expansion. Maintain regular communication and report potential partnership progress to the Business Development team.
+   - Collaboration with BD Team: Work hand-in-hand with Phala’s Business Development team to define strategic goals, share lead insights, and ensure a seamless handoff of qualified leads. Act as a bridge between external stakeholders and internal teams, helping to facilitate effective engagement and deal progression.
 
-7. Others:
-   - Serve as Regional Team Leaders.
-   - Make other outstanding contributions to Phala Network throughout the evaluation month.
+4. Others:
+   - Regional Leadership: Serve as a Regional Team Leader by coordinating activities in your specific region. This includes mentoring local Ambassadors, organizing regional events (both online and offline), and acting as the main point of contact for your area.
+   - Exceptional Contributions: Go beyond assigned duties by contributing in unique and impactful ways—such as organizing community initiatives, hackathons, AMAs, or acting as a spokesperson for Phala in conferences and online forums. These efforts will be recognized and factored into your monthly performance evaluations.
 
 ## How the Ambassador Program works:
 
-1. Understand the Token Allocation (of the $PHA token pool) for each department:
-   - Basic Responsibilities (10%)
-   - Community Management (25%)
-   - Marketing (20%)
-   - Content Creation (20%)
-   - Business Development (10%)
-   - Tech Assistance (10%)
+1. Understand the Token Allocation (of the $PHA token pool) for each department :
+   - Community Management (35%)
+   - Content Creation (40%)
+   - Business Development (20%)
    - Others (5%)
    - Additional Promotional Bonus (outside of the token pool)
      - Head Ambs: 4000 $PHA/month
      - Senior Ambs: 2000 $PHA/month
 
 2. Choose Your Tasks:
-   - Ambassadors will have to choose at least two and can choose up to three departments, out of the five departments (CM, MK, CC, BD & Tech), to work on each month.
+   - Ambassadors will have to choose at least two and can choose up to three departments, out of the five departments (CM, CC & BD), to work on each month.
    - There is a total of 40 points per month per department - 20 points for the efforts and 20 points for the results.
    - Ambassadors will be able to seek support from their regional team leaders while executing the tasks.
   
@@ -103,11 +83,11 @@ As of July, 2024, the Phala Network Ambassador Program consists of 1 Head Ambass
      - Amb C: 20
      - Amb D: 25
      - Amb E: 30
-     - The total score is therefore 38 + 32 + 20 + 25 + 30 = 145. Amb A’s reward, out of the token pool allocated to Community Management (25%), will then be: $$\left(\frac{38}{145}\right)$$ 
-   - Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and 35 in MK out of 200, and because the CM task is allocated 25% of the token pool, CC 20% and MK 20%, then Ambassador A's $PHA reward will be calculated as follows: 
+     - The total score is therefore 38 + 32 + 20 + 25 + 30 = 145. Amb A’s reward, out of the token pool allocated to Community Management (35%), will then be: $$\left(\frac{38}{145}\right)$$ 
+   - Ambassadors will receive individual scores for their work in each department. The percentage of an ambassador's score relative to the total scores given in that department will determine the amount of $PHA awarded for that task. For example, if Ambassador A scores 30 points in CM out of a total of 240 points, 28 in CC out of 180, and because the CM task is allocated 35% of the token pool, and CC 40%, then Ambassador A's $PHA reward will be calculated as follows: 
 
 $$
-\left(\frac{30}{240}\right) \times (84,000 \times 0.25) + \left(\frac{28}{180}\right) \times (84,000 \times 0.20) + \left(\frac{35}{200}\right) \times (84,000 \times 0.20) 
+\left(\frac{30}{240}\right) \times (90,000 \times 0.35) + \left(\frac{28}{180}\right) \times (90,000 \times 0.40)
 $$
 
 5. Receive $PHA Rewards:
@@ -133,7 +113,7 @@ Title: June 2022 Contribution - {your #discord ID}
 - Telegram Username: Z
 - Twitter URL: X
 - PHA Wallet Address: Y
-- Departments: [1]/[2]/[3](if applicable)
+- Departments: [CM]/[CC]/[BD](if applicable)
  
 2. Departments:
  
@@ -144,7 +124,7 @@ Title: June 2022 Contribution - {your #discord ID}
 - Bad points.
 - How to improve your performance for next month.
  
-· MK:
+· BD:
 - List all completed tasks.
 - [add statistics here]
 - Good points
@@ -154,9 +134,9 @@ Title: June 2022 Contribution - {your #discord ID}
  
 4. Suggested scores: 
  
-- [Department 1] X/40
-- [Department 2] X/40
-- [Department 3] X/40 (if applicable)
+- [CM] X/40
+- [CC] X/40
+- [BD] X/40 (if applicable)
 
  
 - Overall suggested score: X/100.
