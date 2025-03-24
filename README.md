@@ -64,6 +64,7 @@ As of March, 2025, the Phala Network Ambassador Program consists of 2 Head Ambas
    - Additional Promotional Bonus (outside of the token pool)
      - Head Ambs: 4000 $PHA/month
      - Senior Ambs: 2000 $PHA/month
+   📌 Note: The allocation percentages above are guidelines and may be adjusted based on the number of active contributors in each department and the evolving needs of Phala Network’s business priorities. Flexibility allows us to reward impact and ensure sustainable growth across all areas.
 
 2. Choose Your Tasks:
    - Ambassadors will have to choose at least two and can choose up to three departments, out of the five departments (CM, CC & BD), to work on each month.
