@@ -51,17 +51,12 @@ As of March, 2025, the Phala Network Ambassador Program consists of 2 Head Ambas
    - Outreach and Relationship Management: Proactively reach out to potential collaborators, projects, and organizations to explore partnership opportunities. Establish and nurture strong, long-term relationships that support Phala’s growth and ecosystem expansion. Maintain regular communication and report potential partnership progress to the Business Development team.
    - Collaboration with BD Team: Work hand-in-hand with Phala’s Business Development team to define strategic goals, share lead insights, and ensure a seamless handoff of qualified leads. Act as a bridge between external stakeholders and internal teams, helping to facilitate effective engagement and deal progression.
 
-4. Others:
-   - Regional Leadership: Serve as a Regional Team Leader by coordinating activities in your specific region. This includes mentoring local Ambassadors, organizing regional events (both online and offline), and acting as the main point of contact for your area.
-   - Exceptional Contributions: Go beyond assigned duties by contributing in unique and impactful ways—such as organizing community initiatives, hackathons, AMAs, or acting as a spokesperson for Phala in conferences and online forums. These efforts will be recognized and factored into your monthly performance evaluations.
-
 ## How the Ambassador Program works:
 
 1. Understand the Token Allocation (of the $PHA token pool) for each department :
-   - Community Management (35%)
-   - Content Creation (40%)
+   - Community Management (30%)
+   - Content Creation (50%)
    - Business Development (20%)
-   - Others (5%)
    - Additional Promotional Bonus (outside of the token pool)
      - Head Ambs: 4000 $PHA/month
      - Senior Ambs: 2000 $PHA/month
