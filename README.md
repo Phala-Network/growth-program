@@ -2,13 +2,13 @@
 > 📢 This program is tracked transparently on GitHub.
 ![1500x500](https://github.com/user-attachments/assets/c916c08a-85f2-43c4-bfe9-1175b6d15250)
 
-# Phala Ambassador Program V.5 - updated March 2025
+# Phala Ambassador Program V.5 - updated Oct 2025
 
 ## Overview
 
 Phala Ambassadors are enthusiastic community members who volunteer to assist Phala Network in marketing, community management, content creation, etc. and receiving $PHA as compensation for their efforts. 
 
-As of March, 2025, the Phala Network Ambassador Program consists of 2 Head Ambassador, 4 Senior Ambassadors and 15 active Ambassadors. These active 21 Ambassadors share a monthly token pool of 90,000 $PHA, distributed based on their performances. Phala plans to recruit 30 more Ambassadors in the year of 2025. If you meet the criteria, and are interested in becoming part of the Phala Ambassador Phamily, please fill out the 
+As of March, 2025, the Phala Network Ambassador Program consists of 1 Head Ambassador, 2 Senior Ambassadors and 10 active Ambassadors. These active 13 Ambassadors share a monthly token pool of 45,000 $PHA, distributed based on their performances. Phala plans to recruit 10 more Ambassadors in the coming months. If you meet the criteria, and are interested in becoming part of the Phala Ambassador Phamily, please fill out the 
 [application](https://forms.gle/xBmaxCcSdnAwhx9AA). 
 
 ## Criteria:
@@ -25,6 +25,11 @@ As of March, 2025, the Phala Network Ambassador Program consists of 2 Head Ambas
 3. Influence
    - Demonstrated strong presence and leadership within various ecosystem communities.
    - Strong social media presence and thought leadership skills.
+4. Common Sense
+   - Professional boundaries: Know what's appropriate to discuss, when to use formal communication, and maintain confidentiality about sensitive information.
+   - Reliability and accountability: Meet deadlines, communicate proactively when issues arise, and take ownership of your responsibilities.
+   - Social awareness: Read situations and people's cues, understand when to approach someone or when they're busy, and recognize how your behavior affects others.
+   - Initiative and judgment: Solve problems you can handle yourself before escalating.
   
 ## Benefits:
 
@@ -34,7 +39,6 @@ As of March, 2025, the Phala Network Ambassador Program consists of 2 Head Ambas
 4. Other benefits and perks offered by Phala Network such as your own Web3 AI Agent. 
 5. Networking opportunities – work alongside Phala’s core team and attend local events and conferences that are sponsored by the Phala team.
 6. Recognition & influence - build a reputation, and maybe even a future career for yourself.
-7. Exclusive access – be the first to know about Phala’s official releases and upcoming product features. 
 
 ## Ambassador Responsibilities:   
 
@@ -45,18 +49,12 @@ As of March, 2025, the Phala Network Ambassador Program consists of 2 Head Ambas
 2. Content Creation (CC):
    - Informative and Engaging Content: Create a variety of content formats such as blog posts, newsletters, Twitter threads, social media updates, educational videos, and technical tutorials. The aim is to inform and engage the community while promoting Phala’s mission, progress, and ecosystem news. Work closely with the marketing team to align content with broader campaigns and ensure messaging is consistent and impactful.
    - Visual and Multimedia Production: Design and produce high-quality visual content including original illustrations, AI-generated art, infographics, animations, short-form videos, and other multimedia assets. These should align with Phala’s branding guidelines and help convey complex ideas in an accessible and visually appealing manner. Your creative work may be used across social media, event presentations, product launches, and marketing campaigns.
-  
-3. Business Development (BD):
-   - Lead Generation and Pipeline Building: Identify potential partners and project opportunities that align with Phala’s vision. Build and maintain a structured pipeline to track and qualify project leads, using scoring techniques or predefined metrics to evaluate quality and strategic fit.
-   - Outreach and Relationship Management: Proactively reach out to potential collaborators, projects, and organizations to explore partnership opportunities. Establish and nurture strong, long-term relationships that support Phala’s growth and ecosystem expansion. Maintain regular communication and report potential partnership progress to the Business Development team.
-   - Collaboration with BD Team: Work hand-in-hand with Phala’s Business Development team to define strategic goals, share lead insights, and ensure a seamless handoff of qualified leads. Act as a bridge between external stakeholders and internal teams, helping to facilitate effective engagement and deal progression.
 
 ## How the Ambassador Program works:
 
 1. Understand the Token Allocation (of the $PHA token pool) for each department :
    - Community Management (30%)
-   - Content Creation (50%)
-   - Business Development (20%)
+   - Content Creation (70%)
    - Additional Promotional Bonus (outside of the token pool)
      - Head Ambs: 4000 $PHA/month
      - Senior Ambs: 2000 $PHA/month
@@ -64,15 +62,13 @@ As of March, 2025, the Phala Network Ambassador Program consists of 2 Head Ambas
 📌 Note: The allocation percentages above are guidelines and may be adjusted based on the number of active contributors in each department and the evolving needs of Phala Network’s business priorities. Flexibility allows us to reward impact and ensure sustainable growth across all areas.
 
 2. Choose Your Tasks:
-   - Ambassadors will have to choose at least two and can choose up to three departments, out of the five departments (CM, CC & BD), to work on each month.
+   - Ambassadors will have to choose at least one and can choose up to two departments, to work on each month.
    - There is a total of 40 points per month per department - 20 points for the efforts and 20 points for the results.
-   - Ambassadors will be able to seek support from their regional team leaders while executing the tasks.
   
 3. Evaluation:
    - Contribution will be evaluated on a monthly basis; Points will be calculated based on the evidence submitted in Ambassadors' monthly Github issues.
    - Submit your contribution by creating an issue on this repository latest by the 5th day of the following month. Any late submission will not be accepted.
-   - Any ambassador candidates, who reach at least 65% points for a period of 3 consecutive months, will be promoted to the official ambassador position.
-   - Any official ambassador, who reaches at least 90% points for a period of 3 consecutive months, will become a Senior Ambassador.
+   - Any ambassador who ranks in the top 5 for six consecutive monthly evaluations will be considered for promotion to Senior Ambassador.
 
 4. Understand Reward Calculation:
    - Here is an example of calculating the total scores given in a department: Let’s say 5 Ambassadors (Amb A, B, C, D, and E) choose to work on Community Management for that month and have received the following scores: 
@@ -89,14 +85,14 @@ $$
 $$
 
 5. Receive $PHA Rewards:
-   - For every 5 new Ambassadors joining the program, an additional 21,000 $PHA will be added to the token pool.
    - The reward pool comes from the PHA [Treasury](https://phala.subscan.io/account/41PLCEdup7XdUH4hsik4hyFoihDRYKfpN2K48jZH8ehL2tP2).
    - The token allocation to each department may change depending on how the recruitment goes.
    - Future $PHA will ONLY be distributed to the ambassadors' wallet addresses on Phala Network.
 
 6. Ambassador hierarchy:
-   - Our structure: candidate, ambassador, senior ambassador, and head ambassador.
-   - Your starting position will depend on how well your application meets our criteria: expertise, commitment and influence. 
+   - There’s no hierarchy within the program — all ambassadors are equal partners working directly with the Phala core team.
+	- Titles like Senior Ambassador or Head Ambassador simply recognize consistent contribution and leadership.
+	- These roles come with monthly rewards as appreciation for your ongoing impact and dedication to Phala’s growth.
 
 
 _Report Format Example_
@@ -118,16 +114,12 @@ Title: June 2022 Contribution - {your #discord ID}
 · CM:
 - List all completed tasks.
 - [add statistics here]
-- Good points
-- Bad points.
-- How to improve your performance for next month.
+- Areas for improvement
  
 · BD:
 - List all completed tasks.
 - [add statistics here]
-- Good points
-- Bad points.
-- How to improve your performance for next month.
+- Areas for improvement
  
  
 4. Suggested scores: 
