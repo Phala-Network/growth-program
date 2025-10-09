@@ -8,7 +8,7 @@
 
 Phala Ambassadors are enthusiastic community members who volunteer to assist Phala Network in marketing, community management, content creation, etc. and receiving $PHA as compensation for their efforts. 
 
-As of March, 2025, the Phala Network Ambassador Program consists of 1 Head Ambassador, 2 Senior Ambassadors and 10 active Ambassadors. These active 13 Ambassadors share a monthly token pool of 45,000 $PHA, distributed based on their performances. Phala plans to recruit 10 more Ambassadors in the coming months. If you meet the criteria, and are interested in becoming part of the Phala Ambassador Phamily, please fill out the 
+As of Oct, 2025, the Phala Network Ambassador Program consists of 1 Head Ambassador, 2 Senior Ambassadors and 10 active Ambassadors. These active 13 Ambassadors share a monthly token pool of 45,000 $PHA, distributed based on their performances. Phala plans to recruit 10 more Ambassadors in the coming months. If you meet the criteria, and are interested in becoming part of the Phala Ambassador Phamily, please fill out the 
 [application](https://forms.gle/xBmaxCcSdnAwhx9AA). 
 
 ## Criteria:
